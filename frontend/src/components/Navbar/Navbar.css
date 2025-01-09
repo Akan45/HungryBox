@@ -22,7 +22,7 @@
 .navbar-menu a,
 .navbar-menu .active {
   text-decoration: none;
-  color: white;
+  color: var(--text-color);
   font-size: 16px;
   padding: 8px 12px;
   border-radius: 5px;
@@ -88,7 +88,7 @@
   background: none;
   border: none;
   font-size: 24px;
-  color: white;
+  color: var(--text-color);
   display: none;
   cursor: pointer;
 }
